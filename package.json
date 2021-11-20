@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-hugoe",
+  "version": "1.0.0",
+  "description": "Agregar un nuevo paquete a NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoescalpelo/npm-test-hugoe.git"
+  },
+  "author": "hugoescalpelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoescalpelo/npm-test-hugoe/issues"
+  },
+  "homepage": "https://github.com/hugoescalpelo/npm-test-hugoe#readme"
+}
